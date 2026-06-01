@@ -10,6 +10,13 @@ Este proyecto consiste en una calculadora desarrollada con React y TypeScript. L
 
 La calculadora incluye pantalla de resultados, teclado numérico con botones HTML, operaciones matemáticas, validaciones de límite de caracteres y manejo de errores según los requerimientos del proyecto.
 
+## Aplicación publicada
+
+La calculadora se encuentra publicada en el servidor de la clase:
+
+http://joelsiervas.online/24033/
+
+
 ## Vista previa
 
 ![Vista previa de la calculadora](assets/screenshots/calculadora.png)
